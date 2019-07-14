@@ -26,7 +26,9 @@ This repository holds the design for a laser cut, 2-layer player board for the b
 
 ![Medium Wood Board Overview](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_overview.jpg)
 
+![Medium Wood Board Overview](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_action_1.jpg)
 
+![Medium Wood Board Overview](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_action-2.jpg)
 
 # Printing Instructions
 
