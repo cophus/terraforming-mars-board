@@ -11,15 +11,15 @@ This repository holds the design for a laser cut, 2-layer player board for the b
 
 # Board Photos
 
-![Medium Wood Board](\images\board_medium.jpg)
+![Medium Wood Board](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_medium.jpg)
 
-![Light Wood Board](\images\board_light.jpg)
+![Light Wood Board](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_light.jpg)
 
-![Dark Wood Board](\images\board_dark.jpg)
+![Dark Wood Board](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_dark.jpg)
 
-![Medium Wood Board Perspective](\images\board_perspective.jpg)
+![Medium Wood Board Perspective](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_perspective.jpg)
 
-![Medium Wood Board Overview](\images\board_overview.jpg)
+![Medium Wood Board Overview](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_overview.jpg)
 
 # Printing Instructions
 
