@@ -1,11 +1,11 @@
 # terraforming-mars-board
-Pattern for making 2-layer laser cut player boards for the Terraforming Mars board game.   This repo contains two files:
+Pattern for making 2-layer laser cut player boards for the Terraforming Mars board game. This repo contains two sets of two files:
 
 - MarsPlayerBoard_v3p1_bottom.pdf - This file contains the artwork in each resource panel as the green vector objects.  The board boundary is a black line object, which when cut will precisely match the top board.
 - MarsPlayerBoard_v3p1_top.pdf - This file contains the cutting layer which will hold both the resource and player tokens.  Note that depending on the laser settings, this layer can hold the pieces more loosely or tightly - adjust your kerf settings accordingly.
 
-I use two different files since I typically print this file on two different materials.
-
+- MarsPlayerBoard_v3p1_bottom.svg - Same as pdf, but all texts converted to paths for LaserGRBL to understand. Adds distinct colours for resource-shapes, numbers, and outline-cut.
+- MarsPlayerBoard_v3p1_top.svg - Same as pdf, except energy -> heat *shove-over* window is larger.
 
 
 # Description
