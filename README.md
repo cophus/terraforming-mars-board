@@ -45,4 +45,4 @@ I printed the above boards using my [GlowForge](https://glowforge.com/) laser pr
 
 `Colored` folder contains colored version of back board, made to be printed on paper. It also includes additional space to store player resources.
 
-![Colored board](https://raw.githubusercontent.com/cophus/terraforming-mars-board/master/images/board_colored.jpg)
+![Colored board](images/board_colored.jpg)
