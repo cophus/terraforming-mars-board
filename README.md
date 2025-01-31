@@ -41,3 +41,8 @@ I printed the above boards using my [GlowForge](https://glowforge.com/) laser pr
 5. Carefully align the boards and glue them together.
 6. Allow the glue to set before using. 
 
+# Colored version
+
+`Colored` folder contains colored version of back board, made to be printed on paper. It also includes additional space to store player resources.
+
+![Colored board](images/board_colored.jpg)
